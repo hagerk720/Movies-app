@@ -1,2 +1,2 @@
 # Movies-app
-movies app used MVVM architecture pattern , retrofit , picasso , LiveData , view pager and RecyclerView  
+movies app (java) used MVVM architecture pattern , retrofit , picasso , LiveData , view pager and RecyclerView  
